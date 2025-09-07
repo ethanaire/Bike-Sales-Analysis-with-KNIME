@@ -9,3 +9,21 @@ This repository stores working files for a data analysis project using a new too
 - Build a simple and reusable data workflow
 
 The analytics platform helps to get an idea of how visual workflows can help you automate repetitive spreadsheet tasks, build machine learning models, and integrate AI into your data analytic processes, without having to code.
+
+## KNIME Analytics Platform Overview: 
+- A tool to make sense of your data
+  - Data analysis, data science, data engineering
+  - Transformation, visualization, reporting
+
+- Open source
+
+- Visual programming paradigm
+  - No coding required
+
+## Project Flow:
+
+1. Access data
+2. Merge tables
+3. Aggregate values
+4. Extract new values
+5. Visualize data
