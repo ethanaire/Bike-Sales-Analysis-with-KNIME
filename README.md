@@ -23,7 +23,21 @@ The analytics platform helps to get an idea of how visual workflows can help you
 ## Project Flow:
 
 1. Access data
+
 2. Merge tables
+
 3. Aggregate values
+
 4. Extract new values
+
 5. Visualize data
+
+## Analysis Levels:
+
+Based on bike sales and product info data, we have different analysis levels to search for insights:
+
+1. What's the best-selling product?
+
+2. Which category generated the most revenues?
+
+3. How did revenues from bikes evolved over the years for different countries?
