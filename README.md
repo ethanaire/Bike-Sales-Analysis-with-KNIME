@@ -34,6 +34,9 @@ The analytics platform helps to get an idea of how visual workflows can help you
 
 ## Analysis Levels:
 
+<p align="center">
+  <img title="Analysis Flow" alt="Alt text" src="/analysis workflow.png" >
+
 Based on bike sales and product info data, we have different analysis levels to search for insights:
 
 1. What's the best-selling product?
