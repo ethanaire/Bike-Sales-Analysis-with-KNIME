@@ -44,3 +44,16 @@ Based on bike sales and product info data, we have different analysis levels to 
 2. Which category generated the most revenues?
 
 3. How did revenues from bikes evolved over the years for different countries?
+
+Nodes to be used: 
+
+- CSV Reader
+- Excel Reader
+- Value Lookup
+- Expression
+- Row Filter
+- String to Date&Time
+- Pivot
+- Number to String
+- Excel Writer
+- Histogram, Bar Chart, Pie Chart
